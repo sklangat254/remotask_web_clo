@@ -7,7 +7,7 @@ const state = {
 
 // ================== PAYHERO CONFIG ==================
 const PAYHERO = {
-    backendUrl: 'https://payhero-api.onrender.com',
+    backendUrl: 'https://payhero-apii.onrender.com',
     tillName:   'FLEX BS SOLUTIONS'   // same as main payment page
 };
 
